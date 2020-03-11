@@ -1,0 +1,14 @@
+# Title: hostsVN
+# Last modified: 13 Jan 2020 14:53 UTC+7
+# Version: 2001131453
+# Blocked: 19,211 domains
+# Please report any ads or problems by github
+# Home: https://bigdargon.github.io/hostsVN/
+# Github: https://github.com/bigdargon/hostsVN/
+# Report issues: https://github.com/bigdargon/hostsVN/issues
+# Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
+#
+# =====================================================
+
+# --- Group block ---
+#[apple]
