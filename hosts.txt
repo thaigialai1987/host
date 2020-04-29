@@ -11,4 +11,13 @@
 # =====================================================
 
 # --- Group block ---
-#[apple]
+#1024/CATTT-VNCERT-30/10/2019
+0.0.0.0 sexmoi.net 
+0.0.0.0 phimsex1.net
+0.0.0.0 phimsex.club
+0.0.0.0 xxphe.com
+0.0.0.0 kichduc.cc
+0.0.0.0 hdxnxx.mobi
+0.0.0.0 tphimsex.net
+0.0.0.0 phimsexsub.tv
+0.0.0.0 ditvl.net
