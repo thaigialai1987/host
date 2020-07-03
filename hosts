@@ -10,6 +10,7 @@
 #
 # =====================================================
 # --- Group block ---
+#[xvietnam]
 0.0.0.0 sexmoi.net
 0.0.0.0 phimsex1.net
 0.0.0.0 phimsex.club
@@ -65,14 +66,14 @@
 0.0.0.0 cp.x1yuqjh9.ru
 0.0.0.0 and19.themarket12345sushi3.com
 0.0.0.0 cp.ekic4bf5.ru
-# SmokeLoader
+#[SmokeLoader]
 0.0.0.0 173.231.184.57
 0.0.0.0 173.231.184.5
 0.0.0.0 206.189.61.126
 0.0.0.0 ukcompany.me
 0.0.0.0 ukcompany.pw
 0.0.0.0 ukcompany.top
-## Conficker
+#[Conficker]
 0.0.0.0 149.93.100.83
 0.0.0.0 149.93.123.143
 0.0.0.0 149.93.131.229
@@ -93,7 +94,7 @@
 0.0.0.0 149.93.2.46
 0.0.0.0 149.93.20.179
 0.0.0.0 149.93.203.187
-# Sality
+#[Sality]
 0.0.0.0 4b998.bmakemegood24.com
 0.0.0.0 axr.lukki6nd2kdnc.info
 0.0.0.0 bdd.f5ds1jkkk4d.info
